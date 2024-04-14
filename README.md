@@ -1,4 +1,4 @@
-# COMPENG-4DS4-Embedded-Systems
+# COMPENG 4DS4: Embedded Systems
 
 Please don't copy this code if you are a current student.  
 This is intended for employers to use as a sample of my relevant experience.
