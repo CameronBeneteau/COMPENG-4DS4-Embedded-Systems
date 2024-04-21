@@ -1,0 +1,7 @@
+/Users/cameron.beneteau/Documents/MCUXpressoIDE_11.9.0_2144/workspace/frdmk66f_lab_1_problem_4/drivers/fsl_gpio.h:162:20:GPIO_PinWrite	24	static
+../source/hello_world.c:29:6:setupSPI	48	static
+../source/hello_world.c:55:6:voltageRegulatorEnable	16	static
+../source/hello_world.c:65:6:accelerometerEnable	16	static
+../source/hello_world.c:76:10:SPI_read	48	static
+../source/hello_world.c:98:10:SPI_write	40	static
+../source/hello_world.c:118:5:main	16	static

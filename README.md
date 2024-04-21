@@ -11,3 +11,8 @@ Location: McMaster University, Hamilton, Canada
 The following tools/libraries are required to run most of the code in this repository:
 
 - [MCUXpresso IDE](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
+- [c](https://www.cprogramming.com/)
+- [Python](https://www.python.org/)
+- [Ubuntu](https://ubuntu.com/)
+- [PX4 Autopilot](https://px4.io/)
+- [NuttX](https://nuttx.apache.org/)

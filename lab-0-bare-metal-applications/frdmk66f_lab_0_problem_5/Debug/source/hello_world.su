@@ -1,0 +1,6 @@
+/Users/cameron.beneteau/Documents/MCUXpressoIDE_11.9.0_2144/workspace/lab0-bare-metal-applications-group-10/frdmk66f_problem_5/drivers/fsl_ftm.h:731:20:FTM_StartTimer	24	static
+/Users/cameron.beneteau/Documents/MCUXpressoIDE_11.9.0_2144/workspace/lab0-bare-metal-applications-group-10/frdmk66f_problem_5/drivers/fsl_ftm.h:1027:20:FTM_SetSoftwareTrigger	16	static
+../source/hello_world.c:32:6:pwm_red_setup	56	static
+../source/hello_world.c:51:6:pwm_green_setup	56	static
+../source/hello_world.c:70:6:pwm_blue_setup	56	static
+../source/hello_world.c:92:5:main	24	static

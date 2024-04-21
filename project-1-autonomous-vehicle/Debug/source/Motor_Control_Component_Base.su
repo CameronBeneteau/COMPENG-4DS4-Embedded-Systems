@@ -1,0 +1,7 @@
+../source/Motor_Control_Component_Base.c:6:6:setupMotorComponent	8	static
+../source/Motor_Control_Component_Base.c:22:6:setupMotorPins	4	static
+../source/Motor_Control_Component_Base.c:27:6:setupDCMotor	4	static
+../source/Motor_Control_Component_Base.c:32:6:setupServo	4	static
+../source/Motor_Control_Component_Base.c:37:6:updatePWM_dutyCycle	32	static
+../source/Motor_Control_Component_Base.c:63:6:motorTask	16	static
+../source/Motor_Control_Component_Base.c:68:6:positionTask	16	static

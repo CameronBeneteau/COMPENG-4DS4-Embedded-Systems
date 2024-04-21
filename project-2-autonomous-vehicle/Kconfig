@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_PROJECT2_PART2
+	bool "project2_part2"
+	default n
+	---help---
+		Enable support for project2_part2
