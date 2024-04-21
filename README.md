@@ -17,7 +17,7 @@ The following tools/libraries are required to run most of the code in this repos
 - [PX4 Autopilot](https://px4.io/)
 - [NuttX](https://nuttx.apache.org/)
 
-Check out the demo video for this project [here](https://youtu.be/GNR54ZBRLOw)!
+Check out the demo video for this project [here](https://youtu.be/07TjvvsqAgo)!
 
 ![Car Main](/images/car-main.png)
 ![Car Front](/images/car-front.png)
